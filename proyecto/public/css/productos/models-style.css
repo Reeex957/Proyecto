@@ -1,0 +1,7 @@
+.cards--products {
+    flex-wrap: wrap;
+}
+.card {
+    flex-basis: 25%;
+    margin-bottom: 50px;
+}
